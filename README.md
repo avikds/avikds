@@ -64,7 +64,7 @@
 - [Principal Component Analysis with NumPy](https://github.com/avikds/Principal-Component-Analysis-with-NumPy)
 - [Linear Regression from scratch](https://github.com/avikds/Linear-Regression-with-Python)
 - [Enterprise Knowledge Base Q&A System (RAG Implementation)](https://github.com/avikds/Enterprise-RAG-QA-System)
-- [YouTube Summarizer — Generative AI Content Pipeline](https://github.com/avikds/Youtube-Summarizer-Article-Generator)
+- [YouTube Summarizer - Generative AI Content Pipeline](https://github.com/avikds/Youtube-Summarizer-Article-Generator)
 - [Career Advisor Chatbot](https://github.com/avikds/Career_Advisor_Chatbot_GenAI)
 - [Sentiment Analysis of Real-time Flipkart Product Reviews](https://github.com/avikds/Sentiment-Analysis-Flipkart-Product-Reviews)
 - [Using MLflow for Experiment Tracking and Model Management](https://github.com/avikds/Using-MLflow-for-Experiment-Tracking-and-Model-Management)
