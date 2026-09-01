@@ -81,5 +81,5 @@
 - [IBM Project - League of Legends Match Predictor](https://github.com/avikds/IBM--Introduction-to-Neural-Networks-and-PyTorch)
 - [IBM Project - Classify Waste Products Using Transfer Learning](https://github.com/avikds/IBM--Deep-Learning-with-Keras-and-Tensorflow)
 - [IBM Project - Boston Housing Data Analysis](https://github.com/avikds/IBM--Statistics-for-Data-Science-with-Python)
-- [IBM Project - Analyzing Historical Stock Data for Tesla and GameStop](https://github.com/avikds/IBM--Python-Project-for-Data-Science)
+- [IBM Project - Analyzing Historical Stock Data for Tesla & GameStop](https://github.com/avikds/IBM--Python-Project-for-Data-Science)
 - [SpaceX Falcon 9 Landing Prediction: IBM Applied Data Science Capstone](https://github.com/avikds/IBM-Applied-Data-Science-Capstone)
