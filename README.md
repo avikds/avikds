@@ -69,7 +69,7 @@
 - [Sentiment Analysis of Real-time Flipkart Product Reviews](https://github.com/avikds/Sentiment-Analysis-Flipkart-Product-Reviews)
 - [Using MLflow for Experiment Tracking and Model Management](https://github.com/avikds/Using-MLflow-for-Experiment-Tracking-and-Model-Management)
 - [Binary Classification Web App: Mushroom Classifier](https://github.com/avikds/Binary-Classification-Web-App)
-- [Sentiment Analysis of Tweets about US Airlines](https://github.com/avikds/Airline-Tweet-Sentiment-Dashboard)
+- [Airline Tweet Sentiment Web-App](https://github.com/avikds/Airline-Tweet-Sentiment-Dashboard)
 - [Penguin Species Classifier Web-App](https://github.com/avikds/Penguin-Species-Classifier)
 - [Twitter Sentiment Analysis NLP](https://github.com/avikds/Twitter-Sentiment-Analysis-NLP/blob/main/Twitter_Sentiment_Analysis.ipynb)
 - [Data Visualization using Plotly Express](https://github.com/avikds/Plotly-Express-Data-Visualization)
