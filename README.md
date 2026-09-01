@@ -1,4 +1,4 @@
-# Projects
+# Projects:
 
 - [Rectified Flow from Scratch](https://github.com/avikds/rectified-flow-from-scratch)
 - [A/B Testing & Causal Inference Toolkit](https://github.com/avikds/a-b-testing-causal-inference-toolkit)
