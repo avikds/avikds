@@ -10,7 +10,6 @@
 - [RAG Pipeline](https://github.com/avikds/rag-pipeline)
 - [Full-Bandwidth Transformer from Scratch](https://github.com/avikds/full-bandwidth-transformer-from-scratch)
 - [Sim-to-Real RL with Domain Randomization](https://github.com/avikds/sim-to-real-rl-with-domain-randomization)
-
 - [Rectified Flow from Scratch](https://github.com/avikds/rectified-flow-from-scratch)
 - [A/B Testing & Causal Inference Toolkit](https://github.com/avikds/a-b-testing-causal-inference-toolkit)
 - [Sutton and Barto from Scratch 1: Bandits and Dynamic Programming](https://github.com/avikds/sutton-and-barto-from-scratch-1-bandits-and-dynamic-programming)
