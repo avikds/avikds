@@ -1,5 +1,16 @@
 # Projects:
 
+- [Multimodal Autoregressive Image Generator from Scratch in JAX](https://github.com/avikds/multimodal-autoregressive-image-generator-from-scratch-in-jax)
+- [Kimi K3 from Scratch: KDA, Attention Residuals, and Stable LatentMoE](https://github.com/avikds/kimi-k3-from-scratch-kda-attention-residuals-and-stable-latentmoe)
+- [Tiny GPT From Scratch](https://github.com/avikds/tiny-gpt-from-scratch)
+- [RLHF from Scratch on DistilGPT2](https://github.com/avikds/rlhf-from-scratch-on-distilgpt2)
+- [Vision-Language Model from Scratch in PyTorch](https://github.com/avikds/vision-language-model-from-scratch-in-pytorch)
+- [Trainable Mixture of Experts in CUDA](https://github.com/avikds/trainable-mixture-of-experts-in-cuda)
+- [Build a Mini LLM Inference Server](https://github.com/avikds/build-a-mini-llm-inference-server)
+- [RAG Pipeline](https://github.com/avikds/rag-pipeline)
+- [Full-Bandwidth Transformer from Scratch](https://github.com/avikds/full-bandwidth-transformer-from-scratch)
+- [Sim-to-Real RL with Domain Randomization](https://github.com/avikds/sim-to-real-rl-with-domain-randomization)
+
 - [Rectified Flow from Scratch](https://github.com/avikds/rectified-flow-from-scratch)
 - [A/B Testing & Causal Inference Toolkit](https://github.com/avikds/a-b-testing-causal-inference-toolkit)
 - [Sutton and Barto from Scratch 1: Bandits and Dynamic Programming](https://github.com/avikds/sutton-and-barto-from-scratch-1-bandits-and-dynamic-programming)
