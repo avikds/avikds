@@ -64,7 +64,7 @@
 - [YouTube Summarizer - Generative AI Content Pipeline](https://github.com/avikds/Youtube-Summarizer-Article-Generator)
 - [Career Advisor Chatbot Web-App](https://github.com/avikds/Career_Advisor_Chatbot_GenAI)
 - [Sentiment Analysis of Real-time Flipkart Product Reviews](https://github.com/avikds/Sentiment-Analysis-Flipkart-Product-Reviews)
-- [Using MLflow for Experiment Tracking and Model Management](https://github.com/avikds/Using-MLflow-for-Experiment-Tracking-and-Model-Management)
+- [Using MLflow for Experiment Tracking & Model Management](https://github.com/avikds/Using-MLflow-for-Experiment-Tracking-and-Model-Management)
 - [Binary Classification Web-App: Mushroom Classifier](https://github.com/avikds/Binary-Classification-Web-App)
 - [Airline Tweet Sentiment Web-App](https://github.com/avikds/Airline-Tweet-Sentiment-Dashboard)
 - [Penguin Species Classifier Web-App](https://github.com/avikds/Penguin-Species-Classifier)
