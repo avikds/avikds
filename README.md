@@ -23,6 +23,7 @@
 - [Mini Distributed Training and Memory-Constrained Trainer from Scratch in NumPy](https://github.com/avikds/mini-distributed-training-and-memory-constrained-trainer-from-scratch-in-numpy)
 - [Neural Networks From Scratch: Forward and Backward](https://github.com/avikds/neural-networks-from-scratch-forward-and-backward)
 - [Message-Passing GNNs from Scratch](https://github.com/avikds/message-passing-gnns-from-scratch)
+- [Reinforcement Learning for Tic-Tac-Toe: From Minimax to DQN](https://github.com/avikds/reinforcement-learning-for-tic-tac-toe-from-minimax-to-dqn)
 - [Rectified Flow from Scratch](https://github.com/avikds/rectified-flow-from-scratch)
 - [A/B Testing & Causal Inference Toolkit](https://github.com/avikds/a-b-testing-causal-inference-toolkit)
 - [Post-Training Safety Eval Harness](https://github.com/avikds/post-training-safety-eval-harness)
