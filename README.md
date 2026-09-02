@@ -73,4 +73,3 @@
 - [Breast Cancer Prediction Using Machine Learning](https://github.com/avikds/Breast-Cancer-Classification-Logistic-Regression)
 - [Graduate Admission Prediction with PySpark ML](https://github.com/avikds/Admission-Prediction-Pyspark-ML)
 - [Amazon Reviews Sentiment Analysis using NLP](https://github.com/avikds/Amazon-Reviews-Sentiment-Analysis-NLP)
-- [SpaceX Falcon 9 Landing Prediction: IBM Applied Data Science Capstone](https://github.com/avikds/IBM-Applied-Data-Science-Capstone)
