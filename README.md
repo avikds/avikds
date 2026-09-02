@@ -1,7 +1,6 @@
 # Projects:
 
 - [Multimodal Autoregressive Image Generator from Scratch in JAX](https://github.com/avikds/multimodal-autoregressive-image-generator-from-scratch-in-jax)
-- [Kimi K3 from Scratch: KDA, Attention Residuals, and Stable LatentMoE](https://github.com/avikds/kimi-k3-from-scratch-kda-attention-residuals-and-stable-latentmoe)
 - [Tiny GPT From Scratch](https://github.com/avikds/tiny-gpt-from-scratch)
 - [RLHF from Scratch on DistilGPT2](https://github.com/avikds/rlhf-from-scratch-on-distilgpt2)
 - [Vision-Language Model from Scratch in PyTorch](https://github.com/avikds/vision-language-model-from-scratch-in-pytorch)
@@ -11,6 +10,7 @@
 - [Full-Bandwidth Transformer from Scratch](https://github.com/avikds/full-bandwidth-transformer-from-scratch)
 - [Sim-to-Real RL with Domain Randomization](https://github.com/avikds/sim-to-real-rl-with-domain-randomization)
 - [Honest Backtesting: A Walk-Forward Signal Evaluator](https://github.com/avikds/honest-backtesting-a-walk-forward-signal-evaluator)
+- [Kimi K3 from Scratch: KDA, Attention Residuals, and Stable LatentMoE](https://github.com/avikds/kimi-k3-from-scratch-kda-attention-residuals-and-stable-latentmoe)
 - [Fused LLM Inference Kernels in CUDA](https://github.com/avikds/fused-llm-inference-kernels-in-cuda)
 - [Denoising Diffusion (DDPM) from Scratch](https://github.com/avikds/denoising-diffusion-ddpm-from-scratch)
 - [Mamba from Scratch: Selective State Spaces](https://github.com/avikds/mamba-from-scratch-selective-state-spaces)
