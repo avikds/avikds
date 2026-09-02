@@ -10,6 +10,7 @@
 - [RAG Pipeline](https://github.com/avikds/rag-pipeline)
 - [Full-Bandwidth Transformer from Scratch](https://github.com/avikds/full-bandwidth-transformer-from-scratch)
 - [Sim-to-Real RL with Domain Randomization](https://github.com/avikds/sim-to-real-rl-with-domain-randomization)
+- [Honest Backtesting: A Walk-Forward Signal Evaluator](https://github.com/avikds/honest-backtesting-a-walk-forward-signal-evaluator)
 - [Fused LLM Inference Kernels in CUDA](https://github.com/avikds/fused-llm-inference-kernels-in-cuda)
 - [Denoising Diffusion (DDPM) from Scratch](https://github.com/avikds/denoising-diffusion-ddpm-from-scratch)
 - [Mamba from Scratch: Selective State Spaces](https://github.com/avikds/mamba-from-scratch-selective-state-spaces)
