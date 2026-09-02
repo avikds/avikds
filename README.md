@@ -62,7 +62,7 @@
 - [Logistic Regression from scratch](https://github.com/avikds/Logistic-Regression-with-NumPy-and-Python)
 - [Enterprise Knowledge Base Q&A System (RAG Implementation)](https://github.com/avikds/Enterprise-RAG-QA-System)
 - [YouTube Summarizer - Generative AI Content Pipeline](https://github.com/avikds/Youtube-Summarizer-Article-Generator)
-- [Career Advisor Chatbot](https://github.com/avikds/Career_Advisor_Chatbot_GenAI)
+- [Career Advisor Chatbot Web-App](https://github.com/avikds/Career_Advisor_Chatbot_GenAI)
 - [Sentiment Analysis of Real-time Flipkart Product Reviews](https://github.com/avikds/Sentiment-Analysis-Flipkart-Product-Reviews)
 - [Using MLflow for Experiment Tracking and Model Management](https://github.com/avikds/Using-MLflow-for-Experiment-Tracking-and-Model-Management)
 - [Binary Classification Web-App: Mushroom Classifier](https://github.com/avikds/Binary-Classification-Web-App)
