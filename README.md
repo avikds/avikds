@@ -6,6 +6,7 @@
 - [Vision-Language Model from Scratch in PyTorch](https://github.com/avikds/vision-language-model-from-scratch-in-pytorch)
 - [Trainable Mixture of Experts in CUDA](https://github.com/avikds/trainable-mixture-of-experts-in-cuda)
 - [Build a Mini LLM Inference Server](https://github.com/avikds/build-a-mini-llm-inference-server)
+- [Attention Is All You Need: Build the Transformer From Scratch](https://github.com/avikds/attention-is-all-you-need-build-the-transformer-from-scratch)
 - [RAG Pipeline](https://github.com/avikds/rag-pipeline)
 - [Full-Bandwidth Transformer from Scratch](https://github.com/avikds/full-bandwidth-transformer-from-scratch)
 - [Sim-to-Real RL with Domain Randomization](https://github.com/avikds/sim-to-real-rl-with-domain-randomization)
