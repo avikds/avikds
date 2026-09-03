@@ -11,6 +11,7 @@
 - [Build a Trainable CNN from Scratch in NumPy](https://github.com/avikds/build-a-trainable-cnn-from-scratch-in-numpy)
 - [Build Your Own teenygrad: A Tiny Tensor Autograd Engine](https://github.com/avikds/build-your-own-teenygrad-a-tiny-tensor-autograd-engine)
 - [AlphaZero on Connect-4 from Scratch](https://github.com/avikds/alphazero-on-connect-4-from-scratch)
+- [VeriLLM: Publicly Verifiable Decentralized LLM Inference from Scratch in PyTorch](https://github.com/avikds/verillm-publicly-verifiable-decentralized-llm-inference-from-scratch-in-pytorch)
 - [RAG Pipeline](https://github.com/avikds/rag-pipeline)
 - [Full-Bandwidth Transformer from Scratch](https://github.com/avikds/full-bandwidth-transformer-from-scratch)
 - [Sim-to-Real RL with Domain Randomization](https://github.com/avikds/sim-to-real-rl-with-domain-randomization)
