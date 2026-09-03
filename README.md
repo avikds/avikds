@@ -10,6 +10,7 @@
 - [Reinforcement Learning for Tic-Tac-Toe: From Minimax to DQN](https://github.com/avikds/reinforcement-learning-for-tic-tac-toe-from-minimax-to-dqn)
 - [Build a Trainable CNN from Scratch in NumPy](https://github.com/avikds/build-a-trainable-cnn-from-scratch-in-numpy)
 - [Build Your Own teenygrad: A Tiny Tensor Autograd Engine](https://github.com/avikds/build-your-own-teenygrad-a-tiny-tensor-autograd-engine)
+- [AlphaZero on Connect-4 from Scratch](https://github.com/avikds/alphazero-on-connect-4-from-scratch)
 - [RAG Pipeline](https://github.com/avikds/rag-pipeline)
 - [Full-Bandwidth Transformer from Scratch](https://github.com/avikds/full-bandwidth-transformer-from-scratch)
 - [Sim-to-Real RL with Domain Randomization](https://github.com/avikds/sim-to-real-rl-with-domain-randomization)
