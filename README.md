@@ -74,7 +74,7 @@
 - [Binary Classification Web-App: Mushroom Classifier](https://github.com/avikds/Binary-Classification-Web-App)
 - [Airline Tweet Sentiment Web-App](https://github.com/avikds/Airline-Tweet-Sentiment-Dashboard)
 - [Penguin Species Classifier Web-App](https://github.com/avikds/Penguin-Species-Classifier)
-- [Twitter Sentiment Analysis NLP](https://github.com/avikds/Twitter-Sentiment-Analysis-NLP/blob/main/Twitter_Sentiment_Analysis.ipynb)
+- [Twitter Sentiment Analysis NLP](https://github.com/avikds/Twitter-Sentiment-Analysis-NLP)
 - [Diabetes Prediction with PySpark MLlib](https://github.com/avikds/Diabetes-Prediction-Pyspark-MLlib)
 - [Breast Cancer Classification with Logistic Regression](https://github.com/avikds/Breast-Cancer-Classification-Logistic-Regression)
 - [Graduate Admission Prediction with PySpark ML](https://github.com/avikds/Admission-Prediction-Pyspark-ML)
