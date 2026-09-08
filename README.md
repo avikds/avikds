@@ -43,6 +43,7 @@
 - [Q-Learning on FrozenLake from Scratch](https://github.com/avikds/q-learning-on-frozenlake-from-scratch)
 - [Build an MLP in JAX from Scratch](https://github.com/avikds/build-an-mlp-in-jax-from-scratch)
 - [LoRA Fine-Tune a Tiny Chat Model with Unsloth](https://github.com/avikds/lora-fine-tune-a-tiny-chat-model-with-unsloth)
+- [California Housing, End to End with Scikit-Learn](https://github.com/avikds/california-housing-end-to-end-with-scikit-learn)
 - [Kaggle Notebooks Collection](https://github.com/avikds/Kaggle-Notebooks-Avik)
 - [Human Image Segmentation with PyTorch and U-Net](https://github.com/avikds/Image-Segmentation-with-PyTorch-and-UNet)
 - [Telecom Customer Churn Prediction with PySpark MLlib](https://github.com/avikds/Customer-Churn-Prediction-PySpark)
