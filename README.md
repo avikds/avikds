@@ -40,6 +40,7 @@
 - [Market-Making & Betting-Game Simulator](https://github.com/avikds/market-making-betting-game-simulator)
 - [Random Forest from Scratch](https://github.com/avikds/random-forest-from-scratch)
 - [Support Vector Machine from Scratch](https://github.com/avikds/support-vector-machine-from-scratch)
+- [Fashion-MNIST Classifier in PyTorch](https://github.com/avikds/fashion-mnist-classifier-in-pytorch)
 - [Unsupervised Learning: Segment, Detect, Propagate with Scikit-Learn](https://github.com/avikds/unsupervised-learning-segment-detect-propagate-with-scikit-learn)
 - [Dimensionality Reduction: Compress MNIST with Scikit-Learn](https://github.com/avikds/dimensionality-reduction-compress-mnist-with-scikit-learn)
 - [Decision Trees: CART, Checked Against Scikit-Learn](https://github.com/avikds/decision-trees-cart-checked-against-scikit-learn)
