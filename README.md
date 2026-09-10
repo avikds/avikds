@@ -1,5 +1,6 @@
 # Projects:
 
+- [Matrix Multiplication Algorithms in CUDA](https://github.com/avikds/matrix-multiplication-algorithms-in-cuda)
 - [Recurrent-Depth Latent Reasoning](https://github.com/avikds/recurrent-depth-latent-reasoning)
 - [Looped Transformer from Scratch](https://github.com/avikds/looped-transformer-from-scratch)
 - [Autoencoders and GANs on Fashion-MNIST in PyTorch](https://github.com/avikds/autoencoders-and-gans-on-fashion-mnist-in-pytorch)
