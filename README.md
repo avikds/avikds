@@ -1,5 +1,6 @@
 # Projects:
 
+- [Autoencoders and GANs on Fashion-MNIST in PyTorch](https://github.com/avikds/autoencoders-and-gans-on-fashion-mnist-in-pytorch)
 - [Char-RNN and Seq2Seq with Attention in PyTorch](https://github.com/avikds/char-rnn-and-seq2seq-with-attention-in-pytorch)
 - [Time-Series Forecasting in PyTorch](https://github.com/avikds/time-series-forecasting-in-pytorch)
 - [Make a Deep Net Converge in PyTorch](https://github.com/avikds/make-a-deep-net-converge-in-pytorch)
