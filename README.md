@@ -1,8 +1,8 @@
 # Projects:
 
-- [Tiny GPT From Scratch](https://github.com/avikds/tiny-gpt-from-scratch)
 - [Kimi K3 from Scratch: KDA, Attention Residuals, and Stable LatentMoE](https://github.com/avikds/kimi-k3-from-scratch-kda-attention-residuals-and-stable-latentmoe)
 - [NextLat from Scratch: Next-Latent Prediction in PyTorch](https://github.com/avikds/nextlat-from-scratch-next-latent-prediction-in-pytorch)
+- [Tiny GPT From Scratch](https://github.com/avikds/tiny-gpt-from-scratch)
 - [Multimodal Autoregressive Image Generator from Scratch in JAX](https://github.com/avikds/multimodal-autoregressive-image-generator-from-scratch-in-jax)
 - [RLHF from Scratch on DistilGPT2](https://github.com/avikds/rlhf-from-scratch-on-distilgpt2)
 - [Vision-Language Model from Scratch in PyTorch](https://github.com/avikds/vision-language-model-from-scratch-in-pytorch)
