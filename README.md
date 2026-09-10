@@ -1,5 +1,7 @@
 # Projects:
 
+- [Tiny GPT From Scratch](https://github.com/avikds/tiny-gpt-from-scratch)
+- [Kimi K3 from Scratch: KDA, Attention Residuals, and Stable LatentMoE](https://github.com/avikds/kimi-k3-from-scratch-kda-attention-residuals-and-stable-latentmoe)
 - [NextLat from Scratch: Next-Latent Prediction in PyTorch](https://github.com/avikds/nextlat-from-scratch-next-latent-prediction-in-pytorch)
 - [Multimodal Autoregressive Image Generator from Scratch in JAX](https://github.com/avikds/multimodal-autoregressive-image-generator-from-scratch-in-jax)
 - [RLHF from Scratch on DistilGPT2](https://github.com/avikds/rlhf-from-scratch-on-distilgpt2)
@@ -16,8 +18,6 @@
 - [Full-Bandwidth Transformer from Scratch](https://github.com/avikds/full-bandwidth-transformer-from-scratch)
 - [Sim-to-Real RL with Domain Randomization](https://github.com/avikds/sim-to-real-rl-with-domain-randomization)
 - [Honest Backtesting: A Walk-Forward Signal Evaluator](https://github.com/avikds/honest-backtesting-a-walk-forward-signal-evaluator)
-- [Tiny GPT From Scratch](https://github.com/avikds/tiny-gpt-from-scratch)
-- [Kimi K3 from Scratch: KDA, Attention Residuals, and Stable LatentMoE](https://github.com/avikds/kimi-k3-from-scratch-kda-attention-residuals-and-stable-latentmoe)
 - [Fused LLM Inference Kernels in CUDA](https://github.com/avikds/fused-llm-inference-kernels-in-cuda)
 - [Denoising Diffusion (DDPM) from Scratch](https://github.com/avikds/denoising-diffusion-ddpm-from-scratch)
 - [Mamba from Scratch: Selective State Spaces](https://github.com/avikds/mamba-from-scratch-selective-state-spaces)
@@ -30,6 +30,7 @@
 - [Mini Distributed Training and Memory-Constrained Trainer from Scratch in NumPy](https://github.com/avikds/mini-distributed-training-and-memory-constrained-trainer-from-scratch-in-numpy)
 - [Neural Networks From Scratch: Forward and Backward](https://github.com/avikds/neural-networks-from-scratch-forward-and-backward)
 - [Message-Passing GNNs from Scratch](https://github.com/avikds/message-passing-gnns-from-scratch)
+- [Make a Deep Net Converge in PyTorch](https://github.com/avikds/make-a-deep-net-converge-in-pytorch)
 - [Rectified Flow from Scratch](https://github.com/avikds/rectified-flow-from-scratch)
 - [A/B Testing & Causal Inference Toolkit](https://github.com/avikds/a-b-testing-causal-inference-toolkit)
 - [Post-Training Safety Eval Harness](https://github.com/avikds/post-training-safety-eval-harness)
