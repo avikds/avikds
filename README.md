@@ -1,5 +1,6 @@
 # Projects:
 
+- [Looped Transformer from Scratch](https://github.com/avikds/looped-transformer-from-scratch)
 - [Autoencoders and GANs on Fashion-MNIST in PyTorch](https://github.com/avikds/autoencoders-and-gans-on-fashion-mnist-in-pytorch)
 - [Char-RNN and Seq2Seq with Attention in PyTorch](https://github.com/avikds/char-rnn-and-seq2seq-with-attention-in-pytorch)
 - [Time-Series Forecasting in PyTorch](https://github.com/avikds/time-series-forecasting-in-pytorch)
