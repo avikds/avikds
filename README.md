@@ -1,6 +1,7 @@
 # Projects:
 
 - [Char-RNN and Seq2Seq with Attention in PyTorch](https://github.com/avikds/char-rnn-and-seq2seq-with-attention-in-pytorch)
+
 - [Time-Series Forecasting in PyTorch](https://github.com/avikds/time-series-forecasting-in-pytorch)
 - [Make a Deep Net Converge in PyTorch](https://github.com/avikds/make-a-deep-net-converge-in-pytorch)
 - [Fashion-MNIST Classifier in PyTorch](https://github.com/avikds/fashion-mnist-classifier-in-pytorch)
