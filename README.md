@@ -1,6 +1,7 @@
 # Projects:
 
 - [Long Short-Term Memory from Scratch in PyTorch](https://github.com/avikds/long-short-term-memory-from-scratch-in-pytorch)
+- [On-Device Model Compression Pipeline](https://github.com/avikds/on-device-model-compression-pipeline)
 - [Matrix Multiplication Algorithms in CUDA](https://github.com/avikds/matrix-multiplication-algorithms-in-cuda)
 - [Recurrent-Depth Latent Reasoning](https://github.com/avikds/recurrent-depth-latent-reasoning)
 - [Looped Transformer from Scratch](https://github.com/avikds/looped-transformer-from-scratch)
@@ -14,7 +15,6 @@
 - [Decision Trees: CART, Checked Against Scikit-Learn](https://github.com/avikds/decision-trees-cart-checked-against-scikit-learn)
 - [MNIST Classifier Pipeline with Scikit-Learn](https://github.com/avikds/mnist-classifier-pipeline-with-scikit-learn)
 - [California Housing, End to End with Scikit-Learn](https://github.com/avikds/california-housing-end-to-end-with-scikit-learn)
-- [On-Device Model Compression Pipeline](https://github.com/avikds/on-device-model-compression-pipeline)
 - [NextLat from Scratch: Next-Latent Prediction in PyTorch](https://github.com/avikds/nextlat-from-scratch-next-latent-prediction-in-pytorch)
 - [Kimi K3 from Scratch: KDA, Attention Residuals, and Stable LatentMoE](https://github.com/avikds/kimi-k3-from-scratch-kda-attention-residuals-and-stable-latentmoe)
 - [Tiny GPT From Scratch](https://github.com/avikds/tiny-gpt-from-scratch)
