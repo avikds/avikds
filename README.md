@@ -1,5 +1,3 @@
-[![My ML fingerprint on Deep-ML](https://www.deep-ml.com/api/badge/avikds.svg?repo=deep-ml&t=5wY06k4ZrHZfQw)](https://avikds.github.io/deep-ml/)
-
 # Projects:
 
 - [Trees, Ensembles and SVMs with Scikit-Learn](https://github.com/avikds/trees-ensembles-and-svms-with-scikit-learn)
@@ -101,3 +99,9 @@
 - [Breast Cancer Classification with Logistic Regression](https://github.com/avikds/Breast-Cancer-Classification-Logistic-Regression)
 - [Graduate Admission Prediction with PySpark ML](https://github.com/avikds/Admission-Prediction-Pyspark-ML)
 - [Amazon Reviews Sentiment Analysis using NLP](https://github.com/avikds/Amazon-Reviews-Sentiment-Analysis-NLP)
+
+---
+
+## My ML fingerprint on Deep-ML
+
+[![My ML fingerprint on Deep-ML](https://www.deep-ml.com/api/badge/avikds.svg?repo=deep-ml&t=5wY06k4ZrHZfQw)](https://avikds.github.io/deep-ml/)
