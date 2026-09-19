@@ -64,6 +64,7 @@
 - [Build an MLP in JAX from Scratch](https://github.com/avikds/build-an-mlp-in-jax-from-scratch)
 - [LoRA Fine-Tune a Tiny Chat Model with Unsloth](https://github.com/avikds/lora-fine-tune-a-tiny-chat-model-with-unsloth)
 - [Kaggle Notebooks Collection](https://github.com/avikds/Kaggle-Notebooks-Avik)
+- [Machine Learning Problems, Labs & Solutions](https://github.com/avikds/deep-ml)
 - [Human Image Segmentation with PyTorch and U-Net](https://github.com/avikds/Image-Segmentation-with-PyTorch-and-UNet)
 - [Telecom Customer Churn Prediction with PySpark MLlib](https://github.com/avikds/Customer-Churn-Prediction-PySpark)
 - [Character-Level Name Generation with TensorFlow](https://github.com/avikds/Superhero-Name-Generator-TensorFlow)
