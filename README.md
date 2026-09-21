@@ -1,5 +1,6 @@
 # Projects:
 
+- [Serving Operations: Load Testing, Autoscaling and Safe Rollouts](https://github.com/avikds/serving-operations-load-testing-autoscaling-and-safe-rollouts)
 - [Trees, Ensembles and SVMs with Scikit-Learn](https://github.com/avikds/trees-ensembles-and-svms-with-scikit-learn)
 - [Beyond Linearity: Splines and GAMs with Scikit-Learn](https://github.com/avikds/beyond-linearity-splines-and-gams-with-scikit-learn)
 - [Resampling, Model Selection and Regularization with Scikit-Learn](https://github.com/avikds/resampling-model-selection-and-regularization-with-scikit-learn)
