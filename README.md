@@ -1,5 +1,6 @@
 # Projects:
 
+- [Speculative Decoding from Scratch in PyTorch](https://github.com/avikds/speculative-decoding-from-scratch-in-pytorch)
 - [Serving Operations: Load Testing, Autoscaling and Safe Rollouts](https://github.com/avikds/serving-operations-load-testing-autoscaling-and-safe-rollouts)
 - [Trees, Ensembles and SVMs with Scikit-Learn](https://github.com/avikds/trees-ensembles-and-svms-with-scikit-learn)
 - [Beyond Linearity: Splines and GAMs with Scikit-Learn](https://github.com/avikds/beyond-linearity-splines-and-gams-with-scikit-learn)
