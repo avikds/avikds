@@ -1,5 +1,6 @@
 # Projects:
 
+- [Prefix Caching and Cache-Aware Routing](https://github.com/avikds/prefix-caching-and-cache-aware-routing)
 - [LLM Inference Mechanics: Prefill, Decode and the KV Cache](https://github.com/avikds/llm-inference-mechanics-prefill-decode-and-the-kv-cache)
 - [Speculative Decoding from Scratch in PyTorch](https://github.com/avikds/speculative-decoding-from-scratch-in-pytorch)
 - [Serving Operations: Load Testing, Autoscaling and Safe Rollouts](https://github.com/avikds/serving-operations-load-testing-autoscaling-and-safe-rollouts)
