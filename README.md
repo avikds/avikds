@@ -1,5 +1,6 @@
 # Projects:
 
+- [Lattice Deduction Transformer from Scratch](https://github.com/avikds/lattice-deduction-transformer-from-scratch)
 - [Node Embeddings and Link Prediction from Scratch](https://github.com/avikds/node-embeddings-and-link-prediction-from-scratch)
 - [Model Parallelism and Disaggregation from Scratch](https://github.com/avikds/model-parallelism-and-disaggregation-from-scratch)
 - [Prefix Caching and Cache-Aware Routing](https://github.com/avikds/prefix-caching-and-cache-aware-routing)
