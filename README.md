@@ -1,5 +1,6 @@
 # Projects:
 
+- [CUDA Codegen on a Real GPU: From Loop IR to Tensor Cores](https://github.com/avikds/cuda-codegen-on-a-real-gpu-from-loop-ir-to-tensor-cores)
 - [RLTL;DR in a Crafting World: Teach Yourself the Tech Tree](https://github.com/avikds/rltl-dr-in-a-crafting-world-teach-yourself-the-tech-tree)
 - [Lattice Deduction Transformer from Scratch](https://github.com/avikds/lattice-deduction-transformer-from-scratch)
 - [Node Embeddings and Link Prediction from Scratch](https://github.com/avikds/node-embeddings-and-link-prediction-from-scratch)
