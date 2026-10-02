@@ -110,7 +110,6 @@
 - [Diabetes Prediction with PySpark MLlib](https://github.com/avikds/Diabetes-Prediction-Pyspark-MLlib)
 - [Breast Cancer Classification with Logistic Regression](https://github.com/avikds/Breast-Cancer-Classification-Logistic-Regression)
 - [Graduate Admission Prediction with PySpark ML](https://github.com/avikds/Admission-Prediction-Pyspark-ML)
-- [Amazon Reviews Sentiment Analysis using NLP](https://github.com/avikds/Amazon-Reviews-Sentiment-Analysis-NLP)
 
 ---
 
