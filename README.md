@@ -104,13 +104,6 @@
 - [Career Advisor Chatbot Web-App](https://github.com/avikds/Career_Advisor_Chatbot_GenAI)
 - [Sentiment Analysis of Real-time Flipkart Product Reviews](https://github.com/avikds/Sentiment-Analysis-Flipkart-Product-Reviews)
 - [Using MLflow for Experiment Tracking & Model Management](https://github.com/avikds/Using-MLflow-for-Experiment-Tracking-and-Model-Management)
-- [Binary Classification Web-App: Mushroom Classifier](https://github.com/avikds/Binary-Classification-Web-App)
-- [Airline Tweet Sentiment Web-App](https://github.com/avikds/Airline-Tweet-Sentiment-Dashboard)
-- [Penguin Species Classifier Web-App](https://github.com/avikds/Penguin-Species-Classifier)
-- [Twitter Sentiment Analysis NLP](https://github.com/avikds/Twitter-Sentiment-Analysis-NLP)
-- [Diabetes Prediction with PySpark MLlib](https://github.com/avikds/Diabetes-Prediction-Pyspark-MLlib)
-- [Breast Cancer Classification with Logistic Regression](https://github.com/avikds/Breast-Cancer-Classification-Logistic-Regression)
-- [Admission Prediction with PySpark ML](https://github.com/avikds/Admission-Prediction-Pyspark-ML)
 
 ---
 
