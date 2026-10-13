@@ -1,5 +1,6 @@
 # Projects:
 
+- [Sutton and Barto from Scratch 2: Monte Carlo and Temporal-Difference Learning](https://github.com/avikds/sutton-and-barto-from-scratch-2-monte-carlo-and-temporal-difference-learning)
 - [Compilers for Machine Learning: Build a Tensor Compiler from Scratch](https://github.com/avikds/compilers-for-machine-learning-build-a-tensor-compiler-from-scratch)
 - [CUDA Codegen on a Real GPU: From Loop IR to Tensor Cores](https://github.com/avikds/cuda-codegen-on-a-real-gpu-from-loop-ir-to-tensor-cores)
 - [RLTL;DR in a Crafting World: Teach Yourself the Tech Tree](https://github.com/avikds/rltl-dr-in-a-crafting-world-teach-yourself-the-tech-tree)
