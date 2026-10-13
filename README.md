@@ -1,5 +1,6 @@
 # Projects:
 
+- [Sutton and Barto from Scratch 4: Planning and Policy-Gradient Methods](https://github.com/avikds/sutton-and-barto-from-scratch-4-planning-and-policy-gradient-methods)
 - [Sutton and Barto from Scratch 3: n-Step Methods, Eligibility Traces and Function Approximation](https://github.com/avikds/sutton-and-barto-from-scratch-3-n-step-methods-eligibility-traces-and-function-approximation)
 - [Sutton and Barto from Scratch 2: Monte Carlo and Temporal-Difference Learning](https://github.com/avikds/sutton-and-barto-from-scratch-2-monte-carlo-and-temporal-difference-learning)
 - [Compilers for Machine Learning: Build a Tensor Compiler from Scratch](https://github.com/avikds/compilers-for-machine-learning-build-a-tensor-compiler-from-scratch)
