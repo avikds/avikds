@@ -1,5 +1,6 @@
 # Projects:
 
+- [Score-Based Diffusion from Scratch: SDEs, Samplers and Guidance](https://github.com/avikds/score-based-diffusion-from-scratch-sdes-samplers-and-guidance)
 - [DeepSeek-V4 Hybrid Attention from Scratch](https://github.com/avikds/deepseek-v4-hybrid-attention-from-scratch)
 - [DeepSeek-V4 Training Stack from Scratch](https://github.com/avikds/deepseek-v4-training-stack-from-scratch)
 - [Sutton and Barto from Scratch 4: Planning and Policy-Gradient Methods](https://github.com/avikds/sutton-and-barto-from-scratch-4-planning-and-policy-gradient-methods)
