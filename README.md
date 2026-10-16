@@ -1,5 +1,6 @@
 # Projects:
 
+- [EmbeddingGemma from Scratch: Train a Text Embedding Model in PyTorch](https://github.com/avikds/embeddinggemma-from-scratch-train-a-text-embedding-model-in-pytorch)
 - [RL Fine-Tuning from Scratch: Build the Environment, Train with GRPO](https://github.com/avikds/rl-fine-tuning-from-scratch-build-the-environment-train-with-grpo)
 - [Score-Based Diffusion from Scratch: SDEs, Samplers and Guidance](https://github.com/avikds/score-based-diffusion-from-scratch-sdes-samplers-and-guidance)
 - [DeepSeek-V4 Hybrid Attention from Scratch](https://github.com/avikds/deepseek-v4-hybrid-attention-from-scratch)
