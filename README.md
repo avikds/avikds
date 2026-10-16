@@ -1,5 +1,6 @@
 # Projects:
 
+- [RL Fine-Tuning from Scratch: Build the Environment, Train with GRPO](https://github.com/avikds/rl-fine-tuning-from-scratch-build-the-environment-train-with-grpo)
 - [Score-Based Diffusion from Scratch: SDEs, Samplers and Guidance](https://github.com/avikds/score-based-diffusion-from-scratch-sdes-samplers-and-guidance)
 - [DeepSeek-V4 Hybrid Attention from Scratch](https://github.com/avikds/deepseek-v4-hybrid-attention-from-scratch)
 - [DeepSeek-V4 Training Stack from Scratch](https://github.com/avikds/deepseek-v4-training-stack-from-scratch)
