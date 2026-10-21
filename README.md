@@ -1,5 +1,6 @@
 # Projects:
 
+- [Serve Like DeepSeek: A Disaggregated Inference Simulator](https://github.com/avikds/serve-like-deepseek-a-disaggregated-inference-simulator)
 - [Video Diffusion from Scratch: Spatiotemporal DiT with Flow Matching](https://github.com/avikds/video-diffusion-from-scratch-spatiotemporal-dit-with-flow-matching)
 - [Continual Pretraining from Scratch: Teach a Tiny LM a New Domain Without Forgetting the Old](https://github.com/avikds/continual-pretraining-from-scratch-teach-a-tiny-lm-a-new-domain-without-forgetting-the-old)
 - [EmbeddingGemma from Scratch: Train a Text Embedding Model in PyTorch](https://github.com/avikds/embeddinggemma-from-scratch-train-a-text-embedding-model-in-pytorch)
