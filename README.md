@@ -1,5 +1,6 @@
 # Projects:
 
+- [Fix Softmax, Watch Grokking Happen](https://github.com/avikds/fix-softmax-watch-grokking-happen)
 - [GPT-2 to gpt-oss, One Change at a Time](https://github.com/avikds/gpt-2-to-gpt-oss-one-change-at-a-time)
 - [Why Selection Matters: Mamba's Synthetic Tasks in tinygrad](https://github.com/avikds/why-selection-matters-mamba-s-synthetic-tasks-in-tinygrad)
 - [Mechanistic Interpretability from Scratch: Find the Induction Circuit in a Tiny GPT](https://github.com/avikds/mechanistic-interpretability-from-scratch-find-the-induction-circuit-in-a-tiny-gpt)
