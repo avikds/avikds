@@ -1,5 +1,6 @@
 # Projects:
 
+- [Sparse and Bayesian Linear Regression from Scratch](https://github.com/avikds/sparse-and-bayesian-linear-regression-from-scratch)
 - [Train a Neural Network in CUDA from Scratch](https://github.com/avikds/train-a-neural-network-in-cuda-from-scratch)
 - [Fix Softmax, Watch Grokking Happen](https://github.com/avikds/fix-softmax-watch-grokking-happen)
 - [GPT-2 to gpt-oss, One Change at a Time](https://github.com/avikds/gpt-2-to-gpt-oss-one-change-at-a-time)
