@@ -1,5 +1,6 @@
 # Projects:
 
+- [Bayesian and Robust Logistic Regression from Scratch](https://github.com/avikds/bayesian-and-robust-logistic-regression-from-scratch)
 - [Sparse and Bayesian Linear Regression from Scratch](https://github.com/avikds/sparse-and-bayesian-linear-regression-from-scratch)
 - [Train a Neural Network in CUDA from Scratch](https://github.com/avikds/train-a-neural-network-in-cuda-from-scratch)
 - [Fix Softmax, Watch Grokking Happen](https://github.com/avikds/fix-softmax-watch-grokking-happen)
