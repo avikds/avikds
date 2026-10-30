@@ -1,5 +1,6 @@
 # Projects:
 
+- [Gaussian Inference from Scratch in NumPy: Conditioning, Imputation, Sensor Fusion and Mixtures](https://github.com/avikds/gaussian-inference-from-scratch-in-numpy-conditioning-imputation-sensor-fusion-and-mixtures)
 - [Bayesian and Robust Logistic Regression from Scratch](https://github.com/avikds/bayesian-and-robust-logistic-regression-from-scratch)
 - [Sparse and Bayesian Linear Regression from Scratch](https://github.com/avikds/sparse-and-bayesian-linear-regression-from-scratch)
 - [Train a Neural Network in CUDA from Scratch](https://github.com/avikds/train-a-neural-network-in-cuda-from-scratch)
