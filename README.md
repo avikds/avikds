@@ -1,5 +1,6 @@
 # Projects:
 
+- [Predicting Insurance Claims With GLMs from Scratch](https://github.com/avikds/predicting-insurance-claims-with-glms-from-scratch)
 - [Learning with 40 Labels: Semi-Supervised and Active Learning from Scratch](https://github.com/avikds/learning-with-40-labels-semi-supervised-and-active-learning-from-scratch)
 - [Gaussian Processes from Scratch: Kernels, Marginal Likelihood, Classification and Scaling](https://github.com/avikds/gaussian-processes-from-scratch-kernels-marginal-likelihood-classification-and-scaling)
 - [Estimators from Scratch: MLE, MAP, Posteriors and the Bootstrap on One Coin](https://github.com/avikds/estimators-from-scratch-mle-map-posteriors-and-the-bootstrap-on-one-coin)
