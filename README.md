@@ -1,5 +1,6 @@
 # Projects:
 
+- [Gaussian Processes from Scratch: Kernels, Marginal Likelihood, Classification and Scaling](https://github.com/avikds/gaussian-processes-from-scratch-kernels-marginal-likelihood-classification-and-scaling)
 - [Estimators from Scratch: MLE, MAP, Posteriors and the Bootstrap on One Coin](https://github.com/avikds/estimators-from-scratch-mle-map-posteriors-and-the-bootstrap-on-one-coin)
 - [Gaussian Inference from Scratch in NumPy: Conditioning, Imputation, Sensor Fusion and Mixtures](https://github.com/avikds/gaussian-inference-from-scratch-in-numpy-conditioning-imputation-sensor-fusion-and-mixtures)
 - [Bayesian and Robust Logistic Regression from Scratch](https://github.com/avikds/bayesian-and-robust-logistic-regression-from-scratch)
