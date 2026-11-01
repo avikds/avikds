@@ -1,5 +1,6 @@
 # Projects:
 
+- [H-Net from Scratch: Dynamic Chunking on Raw Bytes](https://github.com/avikds/h-net-from-scratch-dynamic-chunking-on-raw-bytes)
 - [Predicting Insurance Claims With GLMs from Scratch](https://github.com/avikds/predicting-insurance-claims-with-glms-from-scratch)
 - [Learning with 40 Labels: Semi-Supervised and Active Learning from Scratch](https://github.com/avikds/learning-with-40-labels-semi-supervised-and-active-learning-from-scratch)
 - [Gaussian Processes from Scratch: Kernels, Marginal Likelihood, Classification and Scaling](https://github.com/avikds/gaussian-processes-from-scratch-kernels-marginal-likelihood-classification-and-scaling)
