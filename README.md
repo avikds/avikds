@@ -1,5 +1,6 @@
 # Projects:
 
+- [Dimensionality Reduction from Scratch in NumPy: PCA, Factor Analysis by EM and the Manifold Zoo](https://github.com/avikds/dimensionality-reduction-from-scratch-in-numpy-pca-factor-analysis-by-em-and-the-manifold-zoo)
 - [Beyond One Gaussian: Heteroskedastic MLPs, Mixture Density Networks and MC Dropout from Scratch](https://github.com/avikds/beyond-one-gaussian-heteroskedastic-mlps-mixture-density-networks-and-mc-dropout-from-scratch)
 - [H-Net from Scratch: Dynamic Chunking on Raw Bytes](https://github.com/avikds/h-net-from-scratch-dynamic-chunking-on-raw-bytes)
 - [Predicting Insurance Claims With GLMs from Scratch](https://github.com/avikds/predicting-insurance-claims-with-glms-from-scratch)
