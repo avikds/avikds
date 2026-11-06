@@ -129,6 +129,7 @@
 - [Career Advisor Chatbot Web-App](https://github.com/avikds/Career_Advisor_Chatbot_GenAI)
 - [Sentiment Analysis of Real-time Flipkart Product Reviews](https://github.com/avikds/Sentiment-Analysis-Flipkart-Product-Reviews)
 - [Using MLflow for Experiment Tracking & Model Management](https://github.com/avikds/Using-MLflow-for-Experiment-Tracking-and-Model-Management)
+- [Recommender Systems from Scratch: From Funk SVD to NeuMF and a Feedback Loop](https://github.com/avikds/recommender-systems-from-scratch-from-funk-svd-to-neumf-and-a-feedback-loop)
 
 ---
 
