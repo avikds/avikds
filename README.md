@@ -1,5 +1,6 @@
 # Projects:
 
+- [Pretrain a Tiny BERT, Then Fine-Tune Four Heads](https://github.com/avikds/pretrain-a-tiny-bert-then-fine-tune-four-heads)
 - [Unsupervised and Semi-Supervised Graph Embeddings: Label Propagation, GAE/VGAE, DGI and Poincare](https://github.com/avikds/unsupervised-and-semi-supervised-graph-embeddings-label-propagation-gae-vgae-dgi-and-poincare)
 - [Dimensionality Reduction from Scratch in NumPy: PCA, Factor Analysis by EM and the Manifold Zoo](https://github.com/avikds/dimensionality-reduction-from-scratch-in-numpy-pca-factor-analysis-by-em-and-the-manifold-zoo)
 - [Beyond One Gaussian: Heteroskedastic MLPs, Mixture Density Networks and MC Dropout from Scratch](https://github.com/avikds/beyond-one-gaussian-heteroskedastic-mlps-mixture-density-networks-and-mc-dropout-from-scratch)
