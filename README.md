@@ -1,5 +1,6 @@
 # ML Research Projects:
 
+- [Optimization from Scratch in NumPy: From Steepest Descent to L-BFGS, SVRG and Adam](https://github.com/avikds/optimization-from-scratch-in-numpy-from-steepest-descent-to-l-bfgs-svrg-and-adam)
 - [Pretrain a Tiny BERT, Then Fine-Tune Four Heads](https://github.com/avikds/pretrain-a-tiny-bert-then-fine-tune-four-heads)
 - [Unsupervised and Semi-Supervised Graph Embeddings: Label Propagation, GAE/VGAE, DGI and Poincare](https://github.com/avikds/unsupervised-and-semi-supervised-graph-embeddings-label-propagation-gae-vgae-dgi-and-poincare)
 - [Dimensionality Reduction from Scratch in NumPy: PCA, Factor Analysis by EM and the Manifold Zoo](https://github.com/avikds/dimensionality-reduction-from-scratch-in-numpy-pca-factor-analysis-by-em-and-the-manifold-zoo)
