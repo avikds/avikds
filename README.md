@@ -1,4 +1,4 @@
-# Projects:
+# ML Research Projects:
 
 - [Pretrain a Tiny BERT, Then Fine-Tune Four Heads](https://github.com/avikds/pretrain-a-tiny-bert-then-fine-tune-four-heads)
 - [Unsupervised and Semi-Supervised Graph Embeddings: Label Propagation, GAE/VGAE, DGI and Poincare](https://github.com/avikds/unsupervised-and-semi-supervised-graph-embeddings-label-propagation-gae-vgae-dgi-and-poincare)
