@@ -1,5 +1,6 @@
 # ML Research Projects:
 
+- [Numerical Linear Algebra from Scratch in NumPy](https://github.com/avikds/numerical-linear-algebra-from-scratch-in-numpy)
 - [Optimization from Scratch in NumPy: From Steepest Descent to L-BFGS, SVRG and Adam](https://github.com/avikds/optimization-from-scratch-in-numpy-from-steepest-descent-to-l-bfgs-svrg-and-adam)
 - [Pretrain a Tiny BERT, Then Fine-Tune Four Heads](https://github.com/avikds/pretrain-a-tiny-bert-then-fine-tune-four-heads)
 - [Unsupervised and Semi-Supervised Graph Embeddings: Label Propagation, GAE/VGAE, DGI and Poincare](https://github.com/avikds/unsupervised-and-semi-supervised-graph-embeddings-label-propagation-gae-vgae-dgi-and-poincare)
