@@ -1,5 +1,6 @@
 # ML Research Projects:
 
+- [Exemplar Methods from Scratch: kNN, KDE, Metric Learning and Open-Set Face Matching](https://github.com/avikds/exemplar-methods-from-scratch-knn-kde-metric-learning-and-open-set-face-matching)
 - [Gradient Boosted Trees from Scratch: AdaBoost, LogitBoost and XGBoost](https://github.com/avikds/gradient-boosted-trees-from-scratch-adaboost-logitboost-and-xgboost)
 - [Numerical Linear Algebra from Scratch in NumPy](https://github.com/avikds/numerical-linear-algebra-from-scratch-in-numpy)
 - [Optimization from Scratch in NumPy: From Steepest Descent to L-BFGS, SVRG and Adam](https://github.com/avikds/optimization-from-scratch-in-numpy-from-steepest-descent-to-l-bfgs-svrg-and-adam)
