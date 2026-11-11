@@ -1,5 +1,6 @@
 # ML Research Projects:
 
+- [Object Detection from Scratch: A Tiny One-Stage Detector](https://github.com/avikds/object-detection-from-scratch-a-tiny-one-stage-detector)
 - [Exemplar Methods from Scratch: kNN, KDE, Metric Learning and Open-Set Face Matching](https://github.com/avikds/exemplar-methods-from-scratch-knn-kde-metric-learning-and-open-set-face-matching)
 - [Gradient Boosted Trees from Scratch: AdaBoost, LogitBoost and XGBoost](https://github.com/avikds/gradient-boosted-trees-from-scratch-adaboost-logitboost-and-xgboost)
 - [Numerical Linear Algebra from Scratch in NumPy](https://github.com/avikds/numerical-linear-algebra-from-scratch-in-numpy)
