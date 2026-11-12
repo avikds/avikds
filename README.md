@@ -1,5 +1,6 @@
 # ML Research Projects:
 
+- [Choosing the Right Model from Scratch: Evidence, BIC, AIC, Cross-Validation and WAIC](https://github.com/avikds/choosing-the-right-model-from-scratch-evidence-bic-aic-cross-validation-and-waic)
 - [Train a Mixture-of-Experts LM and Watch It: Balance, Diagnostics, Upcycling and Serving](https://github.com/avikds/train-a-mixture-of-experts-lm-and-watch-it-balance-diagnostics-upcycling-and-serving)
 - [Object Detection from Scratch: A Tiny One-Stage Detector](https://github.com/avikds/object-detection-from-scratch-a-tiny-one-stage-detector)
 - [Exemplar Methods from Scratch: kNN, KDE, Metric Learning and Open-Set Face Matching](https://github.com/avikds/exemplar-methods-from-scratch-knn-kde-metric-learning-and-open-set-face-matching)
