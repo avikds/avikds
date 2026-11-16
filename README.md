@@ -1,5 +1,6 @@
 # ML Research Projects:
 
+- [Classical Computer Vision from Scratch: Filters, Edges, Corners and a Panorama](https://github.com/avikds/classical-computer-vision-from-scratch-filters-edges-corners-and-a-panorama)
 - [Clustering from Scratch in NumPy: HAC, K-Means++, Medoids, GMMs and Spectral Cuts](https://github.com/avikds/clustering-from-scratch-in-numpy-hac-k-means-medoids-gmms-and-spectral-cuts)
 - [Information Theory from Scratch in NumPy: Entropy, KL and Mutual Information](https://github.com/avikds/information-theory-from-scratch-in-numpy-entropy-kl-and-mutual-information)
 - [Choosing the Right Model from Scratch: Evidence, BIC, AIC, Cross-Validation and WAIC](https://github.com/avikds/choosing-the-right-model-from-scratch-evidence-bic-aic-cross-validation-and-waic)
