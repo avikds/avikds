@@ -1,5 +1,6 @@
 # ML Research Projects:
 
+- [Generative Classifiers from Scratch: GDA, Naive Bayes and Fisher LDA vs Logistic Regression](https://github.com/avikds/generative-classifiers-from-scratch-gda-naive-bayes-and-fisher-lda-vs-logistic-regression)
 - [Classical Computer Vision from Scratch: Filters, Edges, Corners and a Panorama](https://github.com/avikds/classical-computer-vision-from-scratch-filters-edges-corners-and-a-panorama)
 - [Clustering from Scratch in NumPy: HAC, K-Means++, Medoids, GMMs and Spectral Cuts](https://github.com/avikds/clustering-from-scratch-in-numpy-hac-k-means-medoids-gmms-and-spectral-cuts)
 - [Information Theory from Scratch in NumPy: Entropy, KL and Mutual Information](https://github.com/avikds/information-theory-from-scratch-in-numpy-entropy-kl-and-mutual-information)
