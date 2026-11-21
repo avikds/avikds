@@ -1,5 +1,6 @@
 # ML Research Projects:
 
+- [makemore in PyTorch: From Bigram Counts to an MLP Language Model](https://github.com/avikds/makemore-in-pytorch-from-bigram-counts-to-an-mlp-language-model)
 - [Customer Churn, Start to Finish: A Data Science Capstone](https://github.com/avikds/customer-churn-start-to-finish-a-data-science-capstone)
 - [Sutton and Barto from Scratch 5: Mars Lander from Flight Logs](https://github.com/avikds/sutton-and-barto-from-scratch-5-mars-lander-from-flight-logs)
 - [Generative Classifiers from Scratch: GDA, Naive Bayes and Fisher LDA vs Logistic Regression](https://github.com/avikds/generative-classifiers-from-scratch-gda-naive-bayes-and-fisher-lda-vs-logistic-regression)
