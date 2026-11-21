@@ -1,4 +1,4 @@
-# ML Research Projects:
+# Scientific Computing & ML Research Projects:
 
 - [Ship a Model: From a Trained PyTorch Network to a Monitored Service](https://github.com/avikds/ship-a-model-from-a-trained-pytorch-network-to-a-monitored-service)
 - [GPT From Your Own Layers: Tiny Shakespeare](https://github.com/avikds/gpt-from-your-own-layers-tiny-shakespeare)
