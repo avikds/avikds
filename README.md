@@ -1,5 +1,6 @@
 # ML Research Projects:
 
+- [GPT From Your Own Layers: Tiny Shakespeare](https://github.com/avikds/gpt-from-your-own-layers-tiny-shakespeare)
 - [Train and Evaluate a Tool-Using Agent in PyTorch](https://github.com/avikds/train-and-evaluate-a-tool-using-agent-in-pytorch)
 - [Reward Model and Rejection Sampling from Scratch](https://github.com/avikds/reward-model-and-rejection-sampling-from-scratch)
 - [makemore in PyTorch: From Bigram Counts to an MLP Language Model](https://github.com/avikds/makemore-in-pytorch-from-bigram-counts-to-an-mlp-language-model)
