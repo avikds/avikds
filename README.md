@@ -1,5 +1,6 @@
 # Machine Learning & Computational Research Projects:
 
+- [Many Devices: Sharding and Placement for a Tensor Compiler](https://github.com/avikds/many-devices-sharding-and-placement-for-a-tensor-compiler)
 - [Ship a Model: From a Trained PyTorch Network to a Monitored Service](https://github.com/avikds/ship-a-model-from-a-trained-pytorch-network-to-a-monitored-service)
 - [GPT From Your Own Layers: Tiny Shakespeare](https://github.com/avikds/gpt-from-your-own-layers-tiny-shakespeare)
 - [Train and Evaluate a Tool-Using Agent in PyTorch](https://github.com/avikds/train-and-evaluate-a-tool-using-agent-in-pytorch)
