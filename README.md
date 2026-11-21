@@ -1,5 +1,6 @@
 # Machine Learning & Computational Research Projects:
 
+- [Make a Training Step Fast: Profile, Fix, Prove It](https://github.com/avikds/make-a-training-step-fast-profile-fix-prove-it)
 - [Run a Small Research Study: Does the Learning Rate Transfer?](https://github.com/avikds/run-a-small-research-study-does-the-learning-rate-transfer)
 - [Many Devices: Sharding and Placement for a Tensor Compiler](https://github.com/avikds/many-devices-sharding-and-placement-for-a-tensor-compiler)
 - [Ship a Model: From a Trained PyTorch Network to a Monitored Service](https://github.com/avikds/ship-a-model-from-a-trained-pytorch-network-to-a-monitored-service)
