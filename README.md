@@ -1,5 +1,6 @@
 # ML Research Projects:
 
+- [Reward Model and Rejection Sampling from Scratch](https://github.com/avikds/reward-model-and-rejection-sampling-from-scratch)
 - [makemore in PyTorch: From Bigram Counts to an MLP Language Model](https://github.com/avikds/makemore-in-pytorch-from-bigram-counts-to-an-mlp-language-model)
 - [Customer Churn, Start to Finish: A Data Science Capstone](https://github.com/avikds/customer-churn-start-to-finish-a-data-science-capstone)
 - [Sutton and Barto from Scratch 5: Mars Lander from Flight Logs](https://github.com/avikds/sutton-and-barto-from-scratch-5-mars-lander-from-flight-logs)
