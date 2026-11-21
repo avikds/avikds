@@ -6,6 +6,7 @@
 - [GPT From Your Own Layers: Tiny Shakespeare](https://github.com/avikds/gpt-from-your-own-layers-tiny-shakespeare)
 - [Train and Evaluate a Tool-Using Agent in PyTorch](https://github.com/avikds/train-and-evaluate-a-tool-using-agent-in-pytorch)
 - [Reward Model and Rejection Sampling from Scratch](https://github.com/avikds/reward-model-and-rejection-sampling-from-scratch)
+- [makemore in PyTorch, Part 2: A WaveNet From Your Own Layers](https://github.com/avikds/makemore-in-pytorch-part-2-a-wavenet-from-your-own-layers)
 - [makemore in PyTorch: From Bigram Counts to an MLP Language Model](https://github.com/avikds/makemore-in-pytorch-from-bigram-counts-to-an-mlp-language-model)
 - [Customer Churn, Start to Finish: A Data Science Capstone](https://github.com/avikds/customer-churn-start-to-finish-a-data-science-capstone)
 - [Sutton and Barto from Scratch 5: Mars Lander from Flight Logs](https://github.com/avikds/sutton-and-barto-from-scratch-5-mars-lander-from-flight-logs)
