@@ -1,5 +1,6 @@
 # Machine Learning & Computational Research Projects:
 
+- [Run an ML System: From Raw Logs to Automated Retraining](https://github.com/avikds/run-an-ml-system-from-raw-logs-to-automated-retraining)
 - [Make a Training Step Fast: Profile, Fix, Prove It](https://github.com/avikds/make-a-training-step-fast-profile-fix-prove-it)
 - [Run a Small Research Study: Does the Learning Rate Transfer?](https://github.com/avikds/run-a-small-research-study-does-the-learning-rate-transfer)
 - [Many Devices: Sharding and Placement for a Tensor Compiler](https://github.com/avikds/many-devices-sharding-and-placement-for-a-tensor-compiler)
