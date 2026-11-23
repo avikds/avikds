@@ -125,6 +125,7 @@
 - [LoRA Fine-Tune a Tiny Chat Model with Unsloth](https://github.com/avikds/lora-fine-tune-a-tiny-chat-model-with-unsloth)
 - [From Tokens to Bytes: Compute and Transfer Multipliers from Scratch](https://github.com/avikds/from-tokens-to-bytes-compute-and-transfer-multipliers-from-scratch)
 - [Recommender Systems from Scratch: From Funk SVD to NeuMF and a Feedback Loop](https://github.com/avikds/recommender-systems-from-scratch-from-funk-svd-to-neumf-and-a-feedback-loop)
+- [Kaggle Notebooks Collection](https://github.com/avikds/Kaggle-Notebooks-Avik)
 - [Quantum Pattern Search](https://github.com/avikds/Quantum-Pattern-Search)
 - [Quantum Gates, Circuits & Entanglement](https://github.com/avikds/Quantum-Gates-Circuits-Entanglement)
 - [Qubit State Explorer](https://github.com/avikds/Qubit-State-Explorer)
