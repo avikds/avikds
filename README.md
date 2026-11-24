@@ -1,5 +1,6 @@
 # Machine Learning & Computational Research Projects:
 
+- [LeNet-5 from Scratch in NumPy](https://github.com/avikds/lenet-5-from-scratch-in-numpy)
 - [McCulloch-Pitts Neurons: A Binary Adder from Scratch in NumPy](https://github.com/avikds/mcculloch-pitts-neurons-a-binary-adder-from-scratch-in-numpy)
 - [Build and Evaluate a Support Assistant: RAG, Tools and a Release Gate](https://github.com/avikds/build-and-evaluate-a-support-assistant-rag-tools-and-a-release-gate)
 - [Run an ML System: From Raw Logs to Automated Retraining](https://github.com/avikds/run-an-ml-system-from-raw-logs-to-automated-retraining)
