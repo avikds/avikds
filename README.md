@@ -1,5 +1,6 @@
 # Machine Learning & Computational Research Projects:
 
+- [McCulloch-Pitts Neurons: A Binary Adder from Scratch in NumPy](https://github.com/avikds/mcculloch-pitts-neurons-a-binary-adder-from-scratch-in-numpy)
 - [Build and Evaluate a Support Assistant: RAG, Tools and a Release Gate](https://github.com/avikds/build-and-evaluate-a-support-assistant-rag-tools-and-a-release-gate)
 - [Run an ML System: From Raw Logs to Automated Retraining](https://github.com/avikds/run-an-ml-system-from-raw-logs-to-automated-retraining)
 - [Make a Training Step Fast: Profile, Fix, Prove It](https://github.com/avikds/make-a-training-step-fast-profile-fix-prove-it)
