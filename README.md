@@ -1,5 +1,6 @@
 # ML Research Projects:
 
+- [Auto-Encoding Variational Bayes from Scratch in PyTorch](https://github.com/avikds/auto-encoding-variational-bayes-from-scratch-in-pytorch)
 - [AlphaGo: Policy Networks, Value Networks and Tree Search from Scratch in PyTorch](https://github.com/avikds/alphago-policy-networks-value-networks-and-tree-search-from-scratch-in-pytorch)
 - [Deep Autoencoders (2006) from Scratch in NumPy](https://github.com/avikds/deep-autoencoders-2006-from-scratch-in-numpy)
 - [LeNet-5 from Scratch in NumPy](https://github.com/avikds/lenet-5-from-scratch-in-numpy)
