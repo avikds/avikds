@@ -1,4 +1,4 @@
-# Machine Learning & Computational Research Projects:
+# ML Research Projects:
 
 - [AlphaGo: Policy Networks, Value Networks and Tree Search from Scratch in PyTorch](https://github.com/avikds/alphago-policy-networks-value-networks-and-tree-search-from-scratch-in-pytorch)
 - [Deep Autoencoders (2006) from Scratch in NumPy](https://github.com/avikds/deep-autoencoders-2006-from-scratch-in-numpy)
