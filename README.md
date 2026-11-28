@@ -1,4 +1,4 @@
-# ML Research Projects:
+# ML/DL Research Projects:
 
 - [Visual Autoregressive Modeling (VAR): Next-Scale Prediction from Scratch in PyTorch](https://github.com/avikds/visual-autoregressive-modeling-var-next-scale-prediction-from-scratch-in-pytorch)
 - [Auto-Encoding Variational Bayes from Scratch in PyTorch](https://github.com/avikds/auto-encoding-variational-bayes-from-scratch-in-pytorch)
@@ -160,7 +160,7 @@
 - [Logistic Regression from scratch](https://github.com/avikds/Logistic-Regression-with-NumPy-and-Python)
 - [Enterprise Knowledge Base Q&A System (RAG Implementation)](https://github.com/avikds/Enterprise-RAG-QA-System)
 - [YouTube Summarizer - Generative AI Content Pipeline](https://github.com/avikds/Youtube-Summarizer-Article-Generator)
-- [Career Advisor Chatbot Web-App](https://github.com/avikds/Career_Advisor_Chatbot_GenAI)
+- [Gen AI Chatbot - Streamlit Web App](https://github.com/avikds/Career_Advisor_Chatbot_GenAI)
 - [Sentiment Analysis of Real-time Flipkart Product Reviews](https://github.com/avikds/Sentiment-Analysis-Flipkart-Product-Reviews)
 - [Using MLflow for Experiment Tracking & Model Management](https://github.com/avikds/Using-MLflow-for-Experiment-Tracking-and-Model-Management)
 
