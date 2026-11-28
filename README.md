@@ -1,4 +1,4 @@
-# ML/DL Research Projects:
+# ML & DL Research Projects:
 
 - [Visual Autoregressive Modeling (VAR): Next-Scale Prediction from Scratch in PyTorch](https://github.com/avikds/visual-autoregressive-modeling-var-next-scale-prediction-from-scratch-in-pytorch)
 - [Auto-Encoding Variational Bayes from Scratch in PyTorch](https://github.com/avikds/auto-encoding-variational-bayes-from-scratch-in-pytorch)
